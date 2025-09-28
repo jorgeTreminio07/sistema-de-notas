@@ -2,6 +2,10 @@
 
 This project is a web system designed for the administration and control of student grades and academic records. It allows for the management of students, registration of grades by subject/period, and performs standard CRUD (Create, Read, Update, Delete) operations.
 
+## 👤 Author
+- Jorge Eduardo Treminio Cruz
+- 📧 Email: eduardotreminio10@gmail.com
+- Linkedln: https://www.linkedin.com/in/eduardo-treminio-b02b81323/
 ---
 
 ## ✨ Key Features
@@ -57,8 +61,6 @@ You need a local web server environment like **XAMPP, WAMP, or MAMP** installed,
 
 Open your terminal and clone the project into your web server's root directory (`htdocs` for XAMPP, `www` for WAMP):
 
-    ```bash
-    git clone https://github.com/jorgeTreminio07/sistema-de-notas.git
 2. Database Configuration
 
 Open phpMyAdmin or your preferred database management tool.
