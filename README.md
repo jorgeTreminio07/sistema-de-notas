@@ -2,6 +2,11 @@
 
 This project is a web system designed for the administration and control of student grades and academic records. It allows for the management of students, registration of grades by subject/period, and performs standard CRUD (Create, Read, Update, Delete) operations.
 
+![PHP 7](https://img.shields.io/badge/PHP%207-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+
+
 ## 👤 Author
 - Jorge Eduardo Treminio Cruz
 - 📧 Email: eduardotreminio10@gmail.com
